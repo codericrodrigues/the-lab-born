@@ -1,0 +1,2 @@
+C:\Users\Casa\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.csprojAssemblyReference.cache
+C:\Users\Casa\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.csproj.CoreCompileInputs.cache

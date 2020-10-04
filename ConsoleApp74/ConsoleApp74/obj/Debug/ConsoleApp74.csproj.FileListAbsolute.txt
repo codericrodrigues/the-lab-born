@@ -1,0 +1,7 @@
+C:\Users\Casa\source\repos\ConsoleApp74\ConsoleApp74\bin\Debug\ConsoleApp74.exe.config
+C:\Users\Casa\source\repos\ConsoleApp74\ConsoleApp74\bin\Debug\ConsoleApp74.exe
+C:\Users\Casa\source\repos\ConsoleApp74\ConsoleApp74\bin\Debug\ConsoleApp74.pdb
+C:\Users\Casa\source\repos\ConsoleApp74\ConsoleApp74\obj\Debug\ConsoleApp74.csprojAssemblyReference.cache
+C:\Users\Casa\source\repos\ConsoleApp74\ConsoleApp74\obj\Debug\ConsoleApp74.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\ConsoleApp74\ConsoleApp74\obj\Debug\ConsoleApp74.exe
+C:\Users\Casa\source\repos\ConsoleApp74\ConsoleApp74\obj\Debug\ConsoleApp74.pdb
